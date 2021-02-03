@@ -1,0 +1,9 @@
+# Annoying files
+.DS_Store
+
+# Python
+*.pyc
+__pycache__
+
+# Pycharm
+*.idea
